@@ -2,7 +2,7 @@
 title: "Controlling negative and positive power for efficiency enhancement and muscle strain mitigation during squatting with a portable knee exoskeleton"
 collection: publications
 category: manuscripts
-permalink: /publications/yu2025controlling
+permalink: /publication/yu2025controlling
 excerpt: 'This paper presents a versatile controller for squatting assistance with a portable knee exoskeleton.'
 date: 2025
 venue: 'Annals of Biomedical Engineering'
