@@ -3,7 +3,7 @@ title: "Controlling negative and positive power for efficiency enhancement and m
 collection: publications
 category: manuscripts
 permalink: /publication/yu2025controlling
-excerpt: 'Workers face a notable risk of musculoskeletal injuries when performing squatting tasks. Knee exoskeletons offer a promising solution to mitigate muscle strain through squat assistance. However, existing studies on knee exoskeletons lack a comprehensive study that meets the multifaceted requirements of squatting assistance in terms of portability, efficiency, and muscle strain mitigation. Furthermore, another open research question pertains to the control strategy of squat assistance, which should be adaptable to various postures and cadences for different individuals. In particular, the effect of controlling negative power assistance during the squat-down phase is not studied.'
+excerpt: 'This paper presents a versatile controller for squatting assistance with a portable knee exoskeleton.'
 date: 2025
 venue: 'Annals of Biomedical Engineering'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
