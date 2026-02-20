@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Presentations"
+    url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/
