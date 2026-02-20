@@ -2,9 +2,9 @@
 title: "Untethered Fluidic Engine for High-Force Soft Wearable Robots"
 collection: publications
 category: manuscripts
-permalink: /publication/2014-06-13-untethered
+permalink: /publication/2024-06-13-untethered
 excerpt: 'This paper proposes a design of an untethered electrohydraulic actuation system for high-force, soft collaborative robots.'
-date: 2014-06-13
+date: 2024-06-13
 venue: 'Advanced Intelligent Systems'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202400171'
