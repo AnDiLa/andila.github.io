@@ -1,5 +1,5 @@
 ---
-title: "Untethered Fluidic Engine for High-Force Soft Wearable Robots"
+title: "Untethered fluidic engine for high-force soft wearable robots"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-06-13-untethered

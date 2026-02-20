@@ -1,5 +1,5 @@
 ---
-title: "Controlling Negative and Positive Power for Efficiency Enhancement and Muscle Strain Mitigation During Squatting with a Portable Knee Exoskeleton"
+title: "Controlling negative and positive power for efficiency enhancement and muscle srain mitigation during squatting with a portable knee exoskeleton"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-17-controlling
