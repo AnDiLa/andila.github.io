@@ -10,9 +10,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "A Portable Powered Soft Exoskeleton for Shoulder Assistance During Functional Movements: Design and Evaluation<br />International Symposium on Medical Robotics (ISMR); Atlanta, USA",
+    33.7544657,
+    -84.3898151
   ],
   [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
